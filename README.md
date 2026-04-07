@@ -1,2 +1,2 @@
 # KnifeDozor
-Knife Dozor
+Knife Dozor CS2
