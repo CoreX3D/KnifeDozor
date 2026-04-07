@@ -25,12 +25,19 @@ Knife Dozor [CS2] v3.0
 
 Команды (только для Root-администраторов):
 
-css_kd_help — список команд
+css_kd_help — список Команды
+
 css_kd_settings — текущие настройки
+
 css_kd_reload — перезагрузка конфига
+
 css_kd_enabled 0/1 — вкл/выкл плагин
+
 css_kd_protecttime <число> — изменить время Spawn Protect
+
 css_kd_antichaintime <число> — изменить время Anti-Chain
+	
 css_kdt — тестовое меню (все модули)
+
 
 Плагин полностью готов к использованию, имеет удобный конфиг и систему тестов.
